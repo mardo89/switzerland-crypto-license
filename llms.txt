@@ -1,0 +1,53 @@
+# Switzerland Crypto License
+
+> Switzerland Crypto License is a specialist consultancy for Swiss crypto licensing — VQF SRO membership, FINMA Fintech license, and Swiss DLT framework. Powered by X24Consulting OÜ — 8 years of EU crypto licensing experience.
+
+## Company
+
+- **Brand:** Switzerland Crypto License
+- **Parent:** Consulting24 (https://consulting24.co/)
+- **Legal entity:** X24Consulting OÜ (private limited company)
+- **Estonian Business Register code:** 16971898
+- **Registered address:** Poordi tn 3-63, Kesklinna linnaosa, 10156 Tallinn, Harju maakond, Estonia
+- **Founder & CEO:** Mardo Soo — https://www.linkedin.com/in/mardo-s-00a05ab0/
+- **Phone:** +372 58155779
+- **Email:** mardo@consulting24.co
+
+## Jurisdiction overview
+
+- **Jurisdiction:** Switzerland
+- **Regulator:** FINMA (Swiss Financial Market Supervisory Authority)
+- **License/registration type:** Switzerland SRO membership (VQF) or FINMA Fintech License or Banking License — depending on activity
+
+## Key facts
+
+- **Total setup cost (SRO):** $30,000–$80,000 USD
+- **Total setup cost (FINMA Fintech):** $150,000–$350,000 USD
+- **Min. paid-up capital (FINMA Fintech):** CHF 300,000
+- **Timeline (SRO):** 2–4 months
+- **Timeline (FINMA Fintech):** 6–12 months
+- **Tax (federal + canton + municipality):** 11–14% effective
+
+## When this jurisdiction is the right fit
+
+- Premium institutional brands valuing Swiss banking credibility
+- Crypto exchanges or custodians targeting Crypto Valley network
+- Operators seeking FINMA-supervised entity for institutional onboarding
+- Swiss-domiciled founders or teams already in Zug / Zurich / Geneva
+
+## When this jurisdiction is NOT the right fit
+
+- Bootstrapped startups (Switzerland is mid-tier on cost)
+- EU-passport-only targets (Lithuania CASP cheaper for the same outcome)
+- Speed-to-market plays (Canada MSB or El Salvador faster)
+- Pure offshore tax plays (Switzerland is fully transparent)
+
+## Comparable jurisdictions
+
+- **Lithuania CASP (MiCA):** $50K–$120K setup, 4–8 months, €125K capital, EU passport. https://mardo89.github.io/lithuania-vasp-license/
+- **Canada MSB (FINTRAC):** $8K–$25K setup, 3–6 weeks, $0 capital, North American fiat rails. https://mardo89.github.io/canada-msb-license/
+- **Panama crypto:** $15K–$45K setup, 6–12 weeks, $0 capital, territorial tax. https://mardo89.github.io/panama-crypto-license/
+
+## Source disclosures
+
+Information here reflects May 2026 conditions and is general guidance, not legal advice. Regulations change — confirm with qualified counsel before acting.
